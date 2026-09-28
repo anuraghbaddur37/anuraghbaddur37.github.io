@@ -60,7 +60,7 @@
   },
   "/work/5-Axis-Simultaneous.mp4": {
     "title": "5-Axis Simultaneous Machining",
-    "category": "ESPRIT EDGE / 5-AXIS CNC",
+    "category": "ESPRIT EDGE / 5-AXIS VMC",
     "description": "5-axis simultaneous toolpath programming in ESPRIT EDGE: smooth tool vector control, gouge avoidance, and multi-axis finishing on complex geometry.",
     "poster": "posters/5-axis-simultaneous.jpg",
     "duration": "0:40",
