@@ -2,7 +2,7 @@
   "/work/ESPRIT-EDGE-PDF-to-3D.mp4": {
     "title": "PDF drawing to 3D in ESPRIT EDGE",
     "category": "ESPRIT EDGE / CUSTOM AUTOMATION",
-    "description": "A screen-recorded demonstration of the Auto 3D workflow: open a drawing, enter its dimensions and build a solid inside ESPRIT EDGE.",
+    "description": "Demonstration of the Auto 3D workflow: open a drawing, enter its dimensions and build a solid inside ESPRIT EDGE.",
     "poster": "posters/esprit-pdf-to-3d.jpg",
     "duration": "0:34",
     "order": 1,
@@ -15,7 +15,7 @@
   "/work/VISI-Electrode-Workflow.mp4": {
     "title": "Electrode preparation in VISI",
     "category": "VISI / ELECTRODE WORKFLOW",
-    "description": "A screen-recorded tooling workflow showing electrode selection, stock preparation, stock-origin positioning and identification on a mould model.",
+    "description": "Tooling workflow showing electrode selection, stock preparation, stock-origin positioning and identification on a mould model.",
     "poster": "posters/visi-electrodes.jpg",
     "duration": "0:37",
     "order": 2,
@@ -28,7 +28,7 @@
   "/work/Mold-Motion-Study.mp4": {
     "title": "Mold Motion Study",
     "category": "VISI / MOLD SIMULATION",
-    "description": "A screen-recorded VISI mold motion study showing the opening stroke, side core and ejector pin movement, and collision detection between moving components.",
+    "description": "VISI mold motion study showing the opening stroke, side core and ejector pin movement, and collision detection between moving components.",
     "poster": "posters/mold-motion-analysis.jpg",
     "duration": "0:18",
     "order": 3,
@@ -44,7 +44,7 @@
   "/work/Swiss-Programming.mp4": {
     "title": "Swiss-type programming in ESPRIT EDGE",
     "category": "ESPRIT EDGE / SWISS-TYPE CNC",
-    "description": "A screen-recorded Swiss-type CNC programming workflow in ESPRIT EDGE: setting up the part, defining turning and milling operations across the main and sub spindles, and simulating the program before it goes to the machine.",
+    "description": "Swiss-type CNC programming workflow in ESPRIT EDGE: setting up the part, defining turning and milling operations across the main and sub spindles, and simulating the program before it goes to the machine.",
     "poster": "posters/swiss-programming.jpg",
     "duration": "0:24",
     "order": 4,
