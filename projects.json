@@ -41,7 +41,7 @@
       "Fix the design or the motion timing and re-run until the mold moves clean."
     ]
   },
-  "/work/Swiss-Programming.mp4": {
+  "/work/Swiss Programming.mp4": {
     "title": "Swiss-type programming in ESPRIT EDGE",
     "category": "ESPRIT EDGE / SWISS-TYPE CNC",
     "description": "A screen-recorded Swiss-type CNC programming workflow in ESPRIT EDGE: setting up the part, defining turning and milling operations across the main and sub spindles, and simulating the program before it goes to the machine.",
