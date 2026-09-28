@@ -40,5 +40,20 @@
       "Run collision detection and review any interference between components.",
       "Fix the design or the motion timing and re-run until the mold moves clean."
     ]
+  },
+  "/work/Swiss-Programming.mp4": {
+    "title": "Swiss-type programming in ESPRIT EDGE",
+    "category": "ESPRIT EDGE / SWISS-TYPE CNC",
+    "description": "A screen-recorded Swiss-type CNC programming workflow in ESPRIT EDGE: setting up the part, defining turning and milling operations across the main and sub spindles, and simulating the program before it goes to the machine.",
+    "poster": "posters/swiss-programming.jpg",
+    "duration": "0:24",
+    "order": 4,
+    "steps": [
+      "Import the part model and set up the Swiss-type machine and stock.",
+      "Define the turning and milling operations for the main spindle.",
+      "Program the sub-spindle transfer and back operations.",
+      "Simulate the full cycle and check for collisions.",
+      "Post-process the program and send it to the machine."
+    ]
   }
 }
