@@ -1,0 +1,28 @@
+{
+  "/work/ESPRIT-EDGE-PDF-to-3D.mp4": {
+    "title": "PDF drawing to 3D in ESPRIT EDGE",
+    "category": "ESPRIT EDGE / CUSTOM AUTOMATION",
+    "description": "A screen-recorded demonstration of the Auto 3D workflow: open a drawing, enter its dimensions and build a solid inside ESPRIT EDGE.",
+    "poster": "posters/esprit-pdf-to-3d.jpg",
+    "duration": "0:34",
+    "order": 1,
+    "steps": [
+      "Select the source drawing in Auto 3D.",
+      "Enter the dimensions shown on the drawing.",
+      "Build and inspect the resulting solid in ESPRIT EDGE."
+    ]
+  },
+  "/work/VISI-Electrode-Workflow.mp4": {
+    "title": "Electrode preparation in VISI",
+    "category": "VISI / ELECTRODE WORKFLOW",
+    "description": "A screen-recorded tooling workflow showing electrode selection, stock preparation, stock-origin positioning and identification on a mould model.",
+    "poster": "posters/visi-electrodes.jpg",
+    "duration": "0:37",
+    "order": 2,
+    "steps": [
+      "Select electrode geometry on the mould model.",
+      "Prepare stock and position the stock origin.",
+      "Review the electrode identification and placement."
+    ]
+  }
+}

@@ -1,7 +1,11 @@
-# Anurag Baddur | CAD/CAM Application Engineer
-
-Professional portfolio featuring VISI, ESPRIT EDGE, tooling design, multi-axis machining and automation.
+# Anurag Baddur | CAD/CAM Projects
 
 [View portfolio](https://anuraghbaddur37.github.io/)
 
-Static HTML, CSS and JavaScript.
+Playable VISI and ESPRIT EDGE workflow demonstrations.
+
+## Add new work
+
+Open the **work** folder and use **Add file → Upload files**. Commit videos or screenshots to **main**. GitHub Pages automatically adds them to the gallery after publishing.
+
+[Full upload and editing guide](ADD-WORK.md)

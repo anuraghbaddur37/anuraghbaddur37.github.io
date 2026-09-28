@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+{%- assign first = true -%}
+{%- for file in site.static_files -%}
+  {%- assign prefix = file.path | slice: 0, 6 -%}
+  {%- assign ext = file.extname | downcase -%}
+  {%- if prefix == '/work/' -%}
+    {%- if ext == '.mp4' or ext == '.webm' or ext == '.png' or ext == '.jpg' or ext == '.jpeg' or ext == '.webp' or ext == '.gif' -%}
+      {%- unless first -%},{%- endunless -%}
+      {"path":{{ file.path | jsonify }},"name":{{ file.basename | jsonify }},"extension":{{ ext | jsonify }}}
+      {%- assign first = false -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+]
