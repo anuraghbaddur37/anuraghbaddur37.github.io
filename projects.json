@@ -23,7 +23,8 @@
     "steps": [
       "Select electrode geometry on the mould model.",
       "Prepare stock and position the stock origin.",
-      "Review the electrode identification and placement."
+      "Review the electrode identification and placement.",
+      "Small C# automation tool with big impact in stock definition, saving lot of time"
     ]
   },
   "/work/Mold-Motion-Study.mp4": {
