@@ -92,7 +92,7 @@
     "category": "ESPRIT EDGE / MULTI-CHANNEL CNC",
     "description": "Multi-turret, multi-channel CNC turning programming for Nakamura-Tome machines in ESPRIT EDGE: synchronized upper/lower turrets, dual-spindle handoff, and multi-channel wait codes.",
     "poster": "posters/multi-channel.jpg",
-    "duration": "0:30",
+    "duration": "0:33",
     "order": 7,
     "steps": [
       "Set up Nakamura-Tome multi-spindle machine kinematics and tooling.",
