@@ -29,7 +29,7 @@
     "title": "Mold Motion Study",
     "category": "VISI / MOLD SIMULATION",
     "description": "A screen-recorded VISI mold motion study showing the opening stroke, side core and ejector pin movement, and collision detection between moving components.",
-    "poster": "posters/Mold-Motion-Analysis.jpg",
+    "poster": "posters/mold-motion-analysis.jpg",
     "duration": "0:18",
     "order": 3,
     "steps": [
