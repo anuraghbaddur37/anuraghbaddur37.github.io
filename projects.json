@@ -24,5 +24,23 @@
       "Prepare stock and position the stock origin.",
       "Review the electrode identification and placement."
     ]
+  },
+    "/work/Mold-Motion Study": {
+    "title": "Mold Motion Study",
+    "category": "VISI / MOLD SIMULATION",
+    "description": "A screen-recorded VISI mold motion study showing the opening stroke, side core and ejector pin movement, & collision detection between moving components. It catches interference before the mold goes to the shop floor.",
+    "poster": "posters/Mold Motion Analysis.jpg",
+    "duration": "0:18",
+    "order": 3,
+    "steps": [
+      "Design the mold with core, cavity, side core and ejector pins.",
+      "Define the fixed half and the moving half of the mold.",
+      "Set up the motion study in VISI: mold opening direction and stroke, side core travel, ejector pin travel.",
+      "Run the simulation and watch the side core and ejector pins move through the full cycle.",
+      "Run collision detection and review any interference between components.",
+      "Fix the design or the motion timing and re-run until the mold moves clean."
+    ]
+  }
+    ]
   }
 }
