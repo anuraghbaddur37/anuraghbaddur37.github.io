@@ -9,7 +9,8 @@
     "steps": [
       "Select the source drawing in Auto 3D.",
       "Enter the dimensions shown on the drawing.",
-      "Build and inspect the resulting solid in ESPRIT EDGE."
+      "Build and inspect the resulting solid in ESPRIT EDGE.",
+      "Built this in .NET Framework for Turning profiles for ESPRIT EDGE."
     ]
   },
   "/work/VISI-Electrode-Workflow.mp4": {
