@@ -1,0 +1,12 @@
+/* A transparent portrait belongs to the page, with one entrance only. */
+#home .portrait-integrated{min-height:0;padding:0 18px 14px;isolation:isolate;perspective:none;animation:portrait-integrated-enter 1.15s cubic-bezier(.16,1,.3,1) .12s both;clip-path:none;transform:none}
+#home .portrait-integrated .portrait-frame{position:relative;margin-inline:auto;width:100%;max-width:490px;border:0;border-radius:0;background:transparent;box-shadow:none;overflow:visible;transform:none;transition:none;mask-image:linear-gradient(to bottom,#000 0%,#000 78%,transparent 100%);-webkit-mask-image:linear-gradient(to bottom,#000 0%,#000 78%,transparent 100%)}
+#home .portrait-integrated .portrait-frame:after{display:none}
+#home .portrait-integrated .portrait-frame img{display:block;width:100%;height:570px;object-fit:contain;object-position:bottom center;border:0;border-radius:0;background:transparent;box-shadow:none;animation:none;transform:none;filter:none}
+#home .portrait-integrated .portrait-glow{inset:5% -8% 18%;width:auto;height:auto;background:radial-gradient(ellipse,#596fbb22,transparent 67%);animation:none;transform:none;opacity:1;z-index:-1}
+#home .portrait-integrated .portrait-identity{position:relative;inset:auto;text-align:center;margin-top:-15px;display:flex;flex-direction:column;gap:7px;animation:caption-enter .8s ease .5s both}
+#home .portrait-identity span:first-child{font:500 20px var(--display);letter-spacing:2px;color:#f1f5ff}
+#home .portrait-identity span:last-child{font-size:14px;letter-spacing:.3px;color:#b1c7e7}
+@keyframes portrait-integrated-enter{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@media(max-width:1050px){#home .portrait-integrated{padding-inline:0}#home .portrait-integrated .portrait-frame img{height:510px}}
+@media(max-width:720px){#home .portrait-integrated{width:min(410px,100%);padding:0 6px 12px;margin:0 auto}#home .portrait-integrated .portrait-frame img{height:420px}#home .portrait-integrated .portrait-identity{margin-top:-12px}#home .portrait-identity span:first-child{font-size:18px}#home .portrait-identity span:last-child{font-size:13px}}
