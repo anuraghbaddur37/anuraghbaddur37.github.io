@@ -86,5 +86,20 @@
       "Direct 3D model: select faces on the 3D model and generate wire paths without redrawing 2D profiles.",
       "Simulate the wire paths and post process the program for the machine."
     ]
+  },
+  "/work/Multi-Channel.mp4": {
+    "title": "Multi-Turret Multi-Channel Programming",
+    "category": "ESPRIT EDGE / MULTI-CHANNEL CNC",
+    "description": "Multi-turret, multi-channel CNC turning programming for Nakamura-Tome machines in ESPRIT EDGE: synchronized upper/lower turrets, dual-spindle handoff, and multi-channel wait codes.",
+    "poster": "posters/multi-channel.jpg",
+    "duration": "0:33",
+    "order": 7,
+    "steps": [
+      "Set up Nakamura-Tome multi-spindle machine kinematics and tooling.",
+      "Program simultaneous operations across upper and lower turrets.",
+      "Insert wait codes and sync points for multi-channel collision control.",
+      "Execute main-to-sub spindle part transfer and cut-off routines.",
+      "Run full dynamic machine simulation and post-process multi-channel G-code."
+    ]
   }
 }
