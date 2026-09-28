@@ -57,5 +57,20 @@
       "Simulate the full cycle and check for collisions.",
       "Post-process the program and send it to the machine."
     ]
+  },
+  "/work/5-Axis-Simultaneous.mp4": {
+    "title": "5-Axis Simultaneous Machining",
+    "category": "ESPRIT EDGE / 5-AXIS CNC",
+    "description": "5-axis simultaneous toolpath programming in ESPRIT EDGE: smooth tool vector control, gouge avoidance, and multi-axis finishing on complex geometry.",
+    "poster": "posters/5-axis-simultaneous.jpg",
+    "duration": "0:40",
+    "order": 5,
+    "steps": [
+      "Import part model and set up 5-axis machine kinematics.",
+      "Define tool axis orientation and tilt angle controls.",
+      "Apply 5-axis simultaneous finishing strategy with gouge protection.",
+      "Run full machine simulation to verify collision-free operation.",
+      "Post-process G-code for 5-axis CNC machine execution."
+    ]
   }
 }
