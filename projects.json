@@ -58,11 +58,11 @@
       "Post-process the program and send it to the machine."
     ]
   },
- "/work/5-AXIS Simultaneous.mp4": {
+  "/work/5-Axis-Simultaneous.mp4": {
     "title": "5-Axis Simultaneous Machining",
     "category": "ESPRIT EDGE / 5-AXIS VMC",
     "description": "5-axis simultaneous toolpath programming in ESPRIT EDGE: smooth tool vector control, gouge avoidance, and multi-axis finishing on complex geometry.",
-    "poster": "posters/5-axis-simultaneous.jpg",
+    "poster": "posters/5-Axis-Simultaneous.jpg",
     "duration": "0:29",
     "order": 5,
     "steps": [
@@ -71,6 +71,20 @@
       "Apply 5-axis simultaneous finishing strategy with gouge protection.",
       "Run full machine simulation to verify collision-free operation.",
       "Post-process G-code for 5-axis CNC machine execution."
+    ]
+  },
+  "/work/Wire-Cut Programming.mp4": {
+    "title": "Wire-Cut Programming in VISI",
+    "category": "VISI / WIRE-CUT",
+    "description": "VISI wire-cut programming workflow covering 2-axis & 4-axis cutting, and programming directly from a 3D model.",
+    "poster": "posters/wire-cut-programming.jpg",
+    "duration": "0:21",
+    "order": 6,
+    "steps": [
+      "2-axis: program the profile with start hole, lead-in and roughing and skim cuts.",
+      "4-axis: define the upper and lower profiles or taper angle for tapered and different-shape cuts.",
+      "Direct 3D model: select faces on the 3D model and generate wire paths without redrawing 2D profiles.",
+      "Simulate the wire paths and post-process the program for the machine."
     ]
   }
 }
