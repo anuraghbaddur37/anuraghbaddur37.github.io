@@ -121,7 +121,7 @@
     "category": "VISI / ELECTRODE",
     "description": "VISI plugin that selects the electrode faces on a 3D model and instantly reports the total machining (burning) area, so the correct EDM parameters and current can be set without manual measurement.",
     "poster": "posters/electrode-area-finder.jpg",
-    "duration": "0:00",
+    "duration": "0:40",
     "order": 9,
     "steps": [
       "Open the electrode model in VISI and launch the Electrode Area Finder plugin.",
